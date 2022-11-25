@@ -1,0 +1,5 @@
+monitor = int(input())
+computer = int(input())
+clava = int(input())
+mause = int(input())
+print((monitor + computer + clava + mause) * 3)
