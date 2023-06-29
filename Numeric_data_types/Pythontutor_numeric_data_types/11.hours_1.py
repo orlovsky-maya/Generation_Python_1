@@ -1,5 +1,0 @@
-h = int(input())
-m = int(input())
-s = int(input())
-time = h + (m / 60) + (s / 3600)
-print(30 * time)
