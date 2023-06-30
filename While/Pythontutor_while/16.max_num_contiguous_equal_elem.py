@@ -14,6 +14,7 @@ while next_num != 0:
     next_num = int(input())
 print(largest_counter)
 
+# Reference solution
 
 prev = -1
 curr_rep_len = 0

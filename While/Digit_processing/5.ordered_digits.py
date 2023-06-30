@@ -4,14 +4,13 @@ answer = 'YES'
 while num != 0:
     last_digit = num % 10
     pre_last_digit = num // 10 % 10
-    if last_digit > pre_last_digit and pre_last_digit != 0:
+    if last_digit > pre_last_digit != 0:
         answer = 'NO'
     num //= 10
 print(answer)
 
-
-
-
+# Other Solutions
+# 1
 n = int(input())
 last = n % 10
 flag = True
@@ -31,6 +30,8 @@ else:
 num = int(input())
 answer = 'YES'
 
+# 2
+
 while num // 10 != 0:
     last_digit = num % 10
     pre_last_digit = num // 10 % 10
@@ -38,6 +39,8 @@ while num // 10 != 0:
         answer = 'NO'
     num //= 10
 print(answer)
+
+# 3
 
 n = int(input())
 while n % 10 <= n % 100 // 10:

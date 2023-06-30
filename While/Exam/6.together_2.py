@@ -27,7 +27,7 @@ while num != 0:
     if digit == 0:
         counter_0_and_5 += 1
     if digit == 5:
-        counter_0_and_5 +=1
+        counter_0_and_5 += 1
     num //= 10
 print(counter_3)
 print(counter_last_digit)

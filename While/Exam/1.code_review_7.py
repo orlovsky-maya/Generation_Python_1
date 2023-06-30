@@ -1,13 +1,17 @@
-# n = input()
-# s = 0
-# while n > 10:
-#     if n % 2 == 1:
-#         s = n % 10
-#     n //= 10
-# print(s)
+# Wrong decision
+
+n = input()
+s = 0
+while n > 10:
+    if n % 2 == 1:
+        s = n % 10
+    n //= 10
+print(s)
 
 n = int(input())
 total = 0
+
+# Corrected Solution
 
 while n != 0:
     last_digit = n % 10

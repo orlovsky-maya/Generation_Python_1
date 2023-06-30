@@ -6,6 +6,8 @@ for i in range(1, n + 1):
     if counter <= n:
         print(counter, end=' ')
 
+# Reference solution
+
 n = int(input())
 i = 1
 while i ** 2 <= n:

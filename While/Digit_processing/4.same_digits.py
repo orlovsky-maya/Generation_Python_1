@@ -10,14 +10,12 @@ while left_num != 0:
         the_same = False
     left_num //= 10
 
-if the_same == False:
+if not the_same:
     print('NO')
 else:
     print('YES')
 
-
-
-
+# Second solution
 
 n = int(input())
 m = n % 10
@@ -27,6 +25,3 @@ while n != 0:
         answer = 'NO'
     n = n // 10
 print(answer)
-
-
-
