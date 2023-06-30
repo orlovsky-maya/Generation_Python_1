@@ -1,6 +1,6 @@
 # Generation_Python_1
 ## Synopsis:
-The repository contains my solutions of beginner course: Generation Python on Stepik educational platform.
+The repository contains my solutions for beginner course: Generation Python on Stepik educational platform.
 
 The course covers basic data types, conditional operator, for and while loops, lists,
 functions, and more.
@@ -33,13 +33,9 @@ alt="Pascal's triangle1" height="300" width="400">
 The input to the program is four real numbers as input, each on a separate line - x1, y1, x2, y2.
 
 Sample Input:
-
 2.0
-
 2.5
-
 44.155
-
 100.50
 
 #### Output format:
