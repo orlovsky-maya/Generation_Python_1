@@ -28,18 +28,16 @@ alt="Pascal's triangle1" height="300" width="400">
     </a>
 </p>
 
-#### Input data format:
-
+#### Input data format: 
 The input to the program is four real numbers as input, each on a separate line - x1, y1, x2, y2.
 
-Sample Input:
-2.0
-2.5
-44.155
+Sample Input:\
+2.0\
+2.5\
+44.155\
 100.50
 
 #### Output format:
-
 The program should print one number is the Euclidean distance.
 
 Sample Output: 106.68197610187018
@@ -66,18 +64,15 @@ alt="Filling the matrix with a spiral" height="200" width="200">
 
 The program receives a question from a user.
 
-Sample Input: 
-
+Sample Input:\
 Can I get Nobel Prize?
 
 #### Output format:
 
 The program should print a random answer.
 
-Sample Output:
-
+Sample Output:\
 Определённо да
-
 
 [Solution](https://github.com/orlovsky-maya/Generation_Python_1/blob/main/Last_part/2.magic_ball.py)
 
@@ -100,14 +95,10 @@ alt="Monte Carlo method" height="300" width="300">
 
 The input to the program is four numbers from 1 to 8.
 
-Sample Input: 
-
-4
-
-4
-
-5
-
+Sample Input:\
+4\
+4\
+5\
 5
 
 #### Output format:
