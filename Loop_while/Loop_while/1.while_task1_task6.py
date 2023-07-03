@@ -21,7 +21,7 @@ while text != 'стоп' and text != 'хватит' and text != 'достато�
     text = input()
 print(total)
 
-# While divided
+# Loop_while divided
 
 num = int(input())
 while num % 7 == 0:
