@@ -18,7 +18,7 @@ The course is the winner of the Stepik Awards 2020 in the category "Best free on
 ### 1. Euclidean distance
 [Task description](https://stepik.org/lesson/265110/step/2?unit=246058)
 
-On a plane, the Euclidean distance between two points (x1; y1) and (x2;y2).
+On a plane, the Euclidean distance between two points (x1; y1) and (x2; y2).
 Write a program that determines the Euclidean distance between two points whose coordinates are given.
 
 <p align="center">
